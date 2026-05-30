@@ -8,41 +8,33 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="55%" valign="top">
 
-```python
-class EbinReji:
-    def __init__(self):
-        self.name        = "Ebin Reji"
-        self.location    = "Mavelikkara, Kerala, India 🌴"
-        self.degree      = "B.Tech CSE @ Sree Buddha College of Engineering"
-        self.graduation  = 2027
+### 👨‍💻 About Me
 
-        self.stack = [
-            "Python", "JavaScript", "React",
-            "Node.js", "ML Models", "WebSockets",
-            "REST APIs", "Figma", "GenAI Tools"
-        ]
+Hey! I'm **Ebin Reji** — a Computer Science undergrad from Kerala, passionate about building products that are fast, beautiful, and actually useful.
 
-        self.currently_learning = [
-            "Advanced ML Integration",
-            "System Design",
-            "Cloud Deployment"
-        ]
+I work across the full stack — from crafting responsive React UIs to wiring up ML models and real-time backends. I care just as much about how something **looks** as how it **works**.
 
-        self.fun_fact = (
-            "I built a 3D Kia Seltos site "
-            "with scroll-triggered frame animation 🚗✨"
-        )
+- 🎓 &nbsp; B.Tech CSE @ **Sree Buddha College of Engineering** *(2023 – 2027)*
+- 📍 &nbsp; Based in **Mavelikkara, Kerala, India**
+- 🔭 &nbsp; Currently building: **ML-powered web apps & real-time systems**
+- 🌱 &nbsp; Learning: **Advanced ML · System Design · Cloud Deployment**
+- 🎨 &nbsp; Also into: **UI/UX Design, Community Building, Open Source**
+- ⚡ &nbsp; Fun fact: I built a **3D Kia Seltos site** with scroll-triggered frame animation
+- 💬 &nbsp; Ask me about: **React, Python, ML integration, or design systems**
+- 📫 &nbsp; Reach me at: **ebin05reji@gmail.com**
 
-    def motto(self):
-        return "Ship it. Iterate. Make it matter. 🚀"
+> *"Ship it. Iterate. Make it matter."*
 
-me = EbinReji()
-print(me.motto())
-```
-
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
