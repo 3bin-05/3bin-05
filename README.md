@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ebin+Reji+%F0%9F%91%8B;Full-Stack+Developer+%7C+ML+Enthusiast;UI%2FUX+Designer+%26+Community+Builder;Building+from+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ebin+Reji;Full-Stack+Developer+%7C+ML+Enthusiast;UI%2FUX+Designer+%26+Community+Builder;Building+from+Kerala%2C+India" alt="Typing SVG" />
   </a>
 </div>
 
@@ -81,11 +81,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ebinreji">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebinreji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/3bin-05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3bin-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/ebinreji">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinreji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/3bin-05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bin-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -94,7 +94,7 @@ print(me.motto())
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ebinreji&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=3bin-05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -102,7 +102,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebinreji&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bin-05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@ print(me.motto())
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebinreji&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=3bin-05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -196,10 +196,10 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [**🛡️ Dark Netra**](https://github.com/ebinreji) | Python · ML · REST APIs · React | Classifies URLs as malicious or safe using a trained ML model + third-party security APIs. Makes security insights accessible to non-technical users. |
-| [**🔐 CryptoChat**](https://github.com/ebinreji) | React · Node.js · WebSockets · Encryption | Real-time messaging with end-to-end encryption and user auth. Minimal, privacy-first UI focused on secure data transmission. |
-| [**🚗 Kia Seltos 3D Site**](https://github.com/ebinreji) | JavaScript · HTML · CSS · Frame Animation | Immersive 360° product showcase via scroll-triggered frame animation. Optimized sequences for smooth rendering across all devices. |
-| [**🤖 ChadGPT**](https://github.com/ebinreji) | React · Generative AI | Experimental AI chatbot conversing in Malayalam — exploring regional language support in GenAI. |
+| [**🛡️ Dark Netra**](https://github.com/3bin-05) | Python · ML · REST APIs · React | Classifies URLs as malicious or safe using a trained ML model + third-party security APIs. Makes security insights accessible to non-technical users. |
+| [**🔐 CryptoChat**](https://github.com/3bin-05) | React · Node.js · WebSockets · Encryption | Real-time messaging with end-to-end encryption and user auth. Minimal, privacy-first UI focused on secure data transmission. |
+| [**🚗 Kia Seltos 3D Site**](https://github.com/3bin-05) | JavaScript · HTML · CSS · Frame Animation | Immersive 360° product showcase via scroll-triggered frame animation. Optimized sequences for smooth rendering across all devices. |
+| [**🤖 ChadGPT**](https://github.com/3bin-05) | React · Generative AI | Experimental AI chatbot conversing in Malayalam — exploring regional language support in GenAI. |
 | [**🎨 Community UIs**](https://ebin-reji.vercel.app) | Figma · UX Research | Designed UI for The Purple Movement, Beyond Syllabus & TinkerHub SBCE — user-centered, open-source platforms. |
 
 </div>
@@ -254,12 +254,12 @@ print(me.motto())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebin-reji/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=vercel&logoColor=white)](https://ebin-reji.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ebin05reji@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ebinreji)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/3bin-05)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebinreji&label=Profile%20views&color=70a5fd&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=3bin-05&label=Profile%20views&color=70a5fd&style=flat-square" alt="Profile views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
