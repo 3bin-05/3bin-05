@@ -189,14 +189,124 @@ and I solve problems for fun when neither of those is cooperating.
 | **[ChadGPT-Demonic-version](https://github.com/3bin-05/ChadGPT-Demonic-version)** | [chadgpt-demonic.vercel.app](https://github.com/3bin-05/ChadGPT-Demonic-version) | `Python` `AI` `Terminal` |
 | **[FlopZon](https://github.com/3bin-05/FlopZon)** | [flopzon.vercel.app](https://github.com/3bin-05/FlopZon) | `JavaScript` `HTML` `CSS` |
 
-</sub>
+## 💼 Experience
+
+<details>
+  <summary><b>🔧 Mulearn SBC — Technical Associate</b> · Apr 2026 – Present · Patoor, Kerala</summary>
+  <br/>
+  <blockquote>
+    <code>Python</code> <code>React</code> <code>Community Tech</code> <code>Open Source</code>
+  </blockquote>
+
+  - Supporting technical initiatives and community-driven projects within Mulearn SBC
+  - Collaborating on developer tooling and internal platforms for the student community
+  - Mentoring peers on development best practices and project architecture
+</details>
+
+<details>
+  <summary><b>🎨 Mulearn SBC — UI/UX IG Lead</b> · Aug 2025 – Apr 2026 · Patoor, Kerala</summary>
+  <br/>
+  <blockquote>
+    <code>Figma</code> <code>UX Research</code> <code>Design Thinking</code> <code>Prototyping</code>
+  </blockquote>
+
+  - Mentored **50+ students** in UI/UX principles, design thinking, and prototyping techniques
+  - Coordinated collaborative projects solving real-world problems through user-centered design
+  - Led workshops and critique sessions that improved design output quality across the cohort
+</details>
+
+<details>
+  <summary><b>📡 IEEE SB SBCE — Membership Development Coordinator</b> · Mar 2026 – Present · Patoor, Kerala</summary>
+  <br/>
+  <blockquote>
+    <code>Community Building</code> <code>Event Management</code> <code>Leadership</code>
+  </blockquote>
+
+  - Driving membership growth and engagement initiatives within the IEEE Student Branch
+  - Strategizing outreach campaigns to onboard new student members
+  - Liaising between student interests and IEEE chapter leadership
+</details>
+
+<details>
+  <summary><b>📅 IEEE SB SBCE — Program Coordination Team</b> · Jun 2025 – Mar 2026 · Patoor, Kerala</summary>
+  <br/>
+  <blockquote>
+    <code>Event Coordination</code> <code>Logistics</code> <code>Tech Evangelism</code>
+  </blockquote>
+
+  - Coordinated logistics and scheduling for IEEE events, improving **attendance by 30%**
+  - Facilitated knowledge-sharing sessions on emerging technologies and industry trends
+  - Managed cross-team communication to ensure smooth event execution
+</details>
+
+<details>
+  <summary><b>🌐 The Purple Movement — UI/UX Developer</b> · Aug 2025 – Present · Thiruvananthapuram, Kerala</summary>
+  <br/>
+  <blockquote>
+    <code>Figma</code> <code>React</code> <code>Accessibility</code> <code>Usability Testing</code>
+  </blockquote>
+
+  - Designed and developed accessible, responsive interfaces for digital products
+  - Conducted user research and usability testing to iterate on prototypes
+  - Delivered production-ready UI components aligned with brand identity
+</details>
+
+<details>
+  <summary><b>⚙️ TinkerHub SBCE — Tech Team Member</b> · Sept 2025 – Jan 2026 · Patoor, Kerala</summary>
+  <br/>
+  <blockquote>
+    <code>Collaborative Coding</code> <code>Open Source</code> <code>Hackathons</code>
+  </blockquote>
+
+  - Contributed to technical projects and collaborative coding initiatives within the TinkerHub community
+  - Participated in build sprints and peer code reviews
+</details>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| | Achievement | Details |
+|--|-------------|---------|
+| 🎓 | **NPTEL Certification** | The Joy of Computing with Python — National Programme on Technology Enhanced Learning |
+| 🎨 | **UI/UX IG Lead** | Mentored **50+ students** at Mulearn SBC in design thinking & prototyping |
+| 📡 | **IEEE Member** | Active IEEE member since Mar 2025 — Program Coord → Membership Dev |
+| 🌐 | **Mulearn Foundation Core Team** | UI/UX Core Team Member at Mulearn Foundation, Thiruvananthapuram (Dec 2025 – Present) |
+| 📈 | **Event Impact** | Improved IEEE event attendance by **30%** through optimized coordination |
+| 🚀 | **Live Portfolio** | Personal portfolio live at [ebin-reji.vercel.app](https://ebin-reji.vercel.app) with 3D physics-based components |
 
 </div>
 
 ---
 
+## 🎓 Education
+
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| B.Tech in Computer Science & Engineering | Sree Buddha College of Engineering, APJ Abdul Kalam Technological University | 2023 – 2027 | In Progress |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🤖 Advanced ML Integration  →  Model fine-tuning, ONNX, edge deployment
+☁️  Cloud & DevOps          →  Firebase, Vercel, CI/CD pipelines
+🏗️  System Design           →  Scalable architecture, real-time systems
+🔐 Security Engineering     →  End-to-end encryption, secure auth patterns
+🎭 Creative Dev             →  Three.js, WebGL, scroll-based animations
+```
+
+---
+
+<div align="center">
+
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01101110 01100111`</sub>
 
 </div>
