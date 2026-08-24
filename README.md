@@ -4,7 +4,7 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Ebin Reji, rendered as a dot matrix">
+<img src="assets/portrait.svg?v=2" width="300" alt="Ebin Reji, rendered as a dot matrix">
 
 <br>
 
@@ -63,9 +63,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg?v=2">
+  <img src="assets/radar-dark.svg?v=2" width="400" alt="skill radar chart">
 </picture>
 
 </td>
@@ -73,9 +73,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Live radar built from real language byte counts across your repos -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=2">
+  <img src="assets/radar-langs-dark.svg?v=2" width="400" alt="language radar chart">
 </picture>
 
 </td>
@@ -114,9 +114,9 @@ and I solve problems for fun when neither of those is cooperating.
      github-readme-stats / streak-stats / github-profile-trophy: those are
      shared public instances that go down and take the whole section with them. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=2">
+  <img src="assets/card-stats-dark.svg?v=2" width="480" alt="GitHub statistics">
 </picture>
 
 <br>
