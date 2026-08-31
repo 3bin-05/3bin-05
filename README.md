@@ -1,312 +1,201 @@
+<!--Banner-->
+![Ebin Reji Banner Image](./banner.png)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴇʙɪɴ ʀᴇᴊɪ! 
+*Computer Science & Engineering Student*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">B.Tech Computer Science & Engineering student at Sree Buddha College of Engineering, Patoor (KTU). Passionate about Web Development, AI/ML, Cybersecurity, and UI/UX Design. I build practical projects using Python, React, JavaScript, and modern web technologies.</p>
+
+- 🌱 Currently exploring local LLMs, Ollama, AI-assisted development, and full-stack applications.
+- 💻 Interested in AI-powered applications, cybersecurity tools, and creative web experiences.
+- 🏗️ Building with React, Vite, Tailwind CSS, Flask, FastAPI, Firebase, Git/GitHub, Figma, and Vercel.
+- 👨‍🎓 Graduating in 2027 — always learning and shipping projects.
+- 🌐 Visit my [Portfolio](https://ebinreji.online) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=3bin-05&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="3bin-05" style="padding-right:20px;" />
+</p>
+
+---
+
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Tech Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+</p>
+
+<h3 align="left">Areas of Interest</h3>
+<p align="left">
+  🤖 Artificial Intelligence · Machine Learning · 🔐 Cybersecurity · 🌐 Web Development · 🎨 UI/UX · 🛠️ Developer Tools
+</p>
+
+<h3 align="left">Notable Projects</h3>
+<ul align="left">
+  <li><strong>DarkNetra</strong> — Hybrid malicious/phishing URL detection platform using ML and security APIs</li>
+  <li><strong>Practicode</strong> — KTU programming lab assistant with built-in code resources and compiler functionality</li>
+  <li><strong>AetherMind</strong> — Personal AI assistant supporting local and API-based LLMs</li>
+  <li><strong>CryptoChat</strong> — Real-time Firebase-based chat application</li>
+  <li><strong>Flipzon</strong> — Full-stack e-commerce platform</li>
+  <li><strong>AI CAM</strong> — YOLO-based vehicle detection and traffic analysis system</li>
+  <li><strong>Thirunayan Pookalam</strong> — Interactive digital representation inspired by Kerala's traditional visual culture</li>
+</ul>
+
+<h3 align="left">Certifications & Learning</h3>
+<ul align="left">
+  <li><strong>NPTEL</strong> — The Joy of Computing Using Python, IIT Madras — Elite certification</li>
+  <li><strong>Python Programming Internship</strong> — STEM Robotics International</li>
+  <li><strong>Flutter Internship</strong> — Luminar Technolab</li>
+</ul>
+
+<h3 align="left">Communities</h3>
+<ul align="left">
+  <li>IEEE Student Branch, SBCE</li>
+  <li>MuLearn SBC</li>
+  <li>TinkerHub</li>
+  <li>Coding Club SBCE</li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/3bin-05">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=3bin-05&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=3bin-05&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=3bin-05&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/3bin-05">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=3bin-05&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/3bin-05">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=3bin-05&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/3bin-05">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=3bin-05&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛᴀᴛs ᴅᴇᴛᴀɪʟs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/3bin-05">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=3bin-05&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bin-05&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
-<!-- PORTRAIT - generated by scripts/dotify.py from assets/jacket.png.
-     Colour mode, so one file serves both GitHub themes. Regenerate with:
-       python scripts/dotify.py assets/jacket.png -o assets/portrait \
-         --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg?v=2" width="300" alt="Ebin Reji, rendered as a dot matrix">
+---
 
-<br>
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/3bin-05">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Ebin+Reji;Software+Engineer;Web+Developer;01100011+01101111+01100100+01100101" alt="typing banner">
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Health%20is%20the%20greatest%20of%20all%20possessions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:ebin05reji@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="ebin05reji@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<br>
+<a href="https://www.instagram.com/_simply._.ebin_?igsh=MWZkOTdoZnJvOG1pdw%3D%3D" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
+</a>
 
-<!-- SOCIALS -->
-<a href="https://www.linkedin.com/in/ebin-reji/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:ebin05reji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.ebinreji.online"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.instagram.com/_simply._.ebin_?igsh=MWZkOTdoZnJvOG1pdw%3D%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/ebin-reji/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="Ebin Reji LinkedIn" style="margin-bottom: 5px;" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=3bin-05&style=flat&color=39d353&label=profile+views" alt="profile views">
+<a href="https://github.com/3bin-05" target="_blank">
+<img src="./github.png" width=50 height=50 alt="3bin-05 GitHub" style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://ebinreji.online" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-ebinreji.online-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+</a>
 </div>
-
----
-
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
-
-Hi, I'm **Ebin Reji**. I build things that sit somewhere between software engineering and the web,
-and I solve problems for fun when neither of those is cooperating.
-
-- Currently building **[TalentPilot](https://github.com/3bin-05/TalentPilot)** and **[PixelDNA](https://github.com/3bin-05/PixelDNA)**
-- Portfolio: **[ebinreji.online](https://www.ebinreji.online)**
-- Learning **Fullstack Development + Mobile Apps (Flutter)**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
-
-<br>
-
-<div align="center">
-
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` skill radar
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg?v=2">
-  <img src="assets/radar-dark.svg?v=2" width="400" alt="skill radar chart">
-</picture>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<!-- Live radar built from real language byte counts across your repos -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=2">
-  <img src="assets/radar-langs-dark.svg?v=2" width="400" alt="language radar chart">
-</picture>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` contribution calendar
-
-<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
-<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/3bin-05/3bin-05/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bin-05/3bin-05/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/3bin-05/3bin-05/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` the numbers
-
-<!-- Generated by scripts/cards.py into this repo. Deliberately NOT
-     github-readme-stats / streak-stats / github-profile-trophy: those are
-     shared public instances that go down and take the whole section with them. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=2">
-  <img src="assets/card-stats-dark.svg?v=2" width="480" alt="GitHub statistics">
-</picture>
-
-<br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` selected work
-
-<!-- Cards generated by scripts/cards.py from assets/projects.json.
-     Stars, forks and language are pulled live from the API on every run. -->
-<table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/3bin-05/TalentPilot">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-TalentPilot-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-TalentPilot-light.svg">
-      <img src="assets/card-TalentPilot-dark.svg" width="420" alt="TalentPilot">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/3bin-05/PixelDNA">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-PixelDNA-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-PixelDNA-light.svg">
-      <img src="assets/card-PixelDNA-dark.svg" width="420" alt="PixelDNA">
-    </picture>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <a href="https://github.com/3bin-05/ChadGPT-Demonic-version">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ChadGPT-Demonic-version-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-ChadGPT-Demonic-version-light.svg">
-      <img src="assets/card-ChadGPT-Demonic-version-dark.svg" width="420" alt="ChadGPT-Demonic-version">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/3bin-05/FlopZon">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-FlopZon-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-FlopZon-light.svg">
-      <img src="assets/card-FlopZon-dark.svg" width="420" alt="FlopZon">
-    </picture>
-  </a>
-</td>
-</tr>
-</table>
-
-<sub>
-
-| project | live | stack |
-|---|---|---|
-| **[TalentPilot](https://github.com/3bin-05/TalentPilot)** | [talentpilot.vercel.app](https://github.com/3bin-05/TalentPilot) | `JavaScript` `Node.js` `Auth` |
-| **[PixelDNA](https://github.com/3bin-05/PixelDNA)** | [pixeldna.vercel.app](https://github.com/3bin-05/PixelDNA) | `JavaScript` `CSS` `Web Audio` |
-| **[ChadGPT-Demonic-version](https://github.com/3bin-05/ChadGPT-Demonic-version)** | [chadgpt-demonic.vercel.app](https://github.com/3bin-05/ChadGPT-Demonic-version) | `Python` `AI` `Terminal` |
-| **[FlopZon](https://github.com/3bin-05/FlopZon)** | [flopzon.vercel.app](https://github.com/3bin-05/FlopZon) | `JavaScript` `HTML` `CSS` |
-
-## 💼 Experience
-
-<details>
-  <summary><b>🔧 Mulearn SBC — Technical Associate</b> · Apr 2026 – Present · Patoor, Kerala</summary>
-  <br/>
-  <blockquote>
-    <code>Python</code> <code>React</code> <code>Community Tech</code> <code>Open Source</code>
-  </blockquote>
-
-  - Supporting technical initiatives and community-driven projects within Mulearn SBC
-  - Collaborating on developer tooling and internal platforms for the student community
-  - Mentoring peers on development best practices and project architecture
-</details>
-
-<details>
-  <summary><b>🎨 Mulearn SBC — UI/UX IG Lead</b> · Aug 2025 – Apr 2026 · Patoor, Kerala</summary>
-  <br/>
-  <blockquote>
-    <code>Figma</code> <code>UX Research</code> <code>Design Thinking</code> <code>Prototyping</code>
-  </blockquote>
-
-  - Mentored **50+ students** in UI/UX principles, design thinking, and prototyping techniques
-  - Coordinated collaborative projects solving real-world problems through user-centered design
-  - Led workshops and critique sessions that improved design output quality across the cohort
-</details>
-
-<details>
-  <summary><b>📡 IEEE SB SBCE — Membership Development Coordinator</b> · Mar 2026 – Present · Patoor, Kerala</summary>
-  <br/>
-  <blockquote>
-    <code>Community Building</code> <code>Event Management</code> <code>Leadership</code>
-  </blockquote>
-
-  - Driving membership growth and engagement initiatives within the IEEE Student Branch
-  - Strategizing outreach campaigns to onboard new student members
-  - Liaising between student interests and IEEE chapter leadership
-</details>
-
-<details>
-  <summary><b>📅 IEEE SB SBCE — Program Coordination Team</b> · Jun 2025 – Mar 2026 · Patoor, Kerala</summary>
-  <br/>
-  <blockquote>
-    <code>Event Coordination</code> <code>Logistics</code> <code>Tech Evangelism</code>
-  </blockquote>
-
-  - Coordinated logistics and scheduling for IEEE events, improving **attendance by 30%**
-  - Facilitated knowledge-sharing sessions on emerging technologies and industry trends
-  - Managed cross-team communication to ensure smooth event execution
-</details>
-
-<details>
-  <summary><b>🌐 The Purple Movement — UI/UX Developer</b> · Aug 2025 – Present · Thiruvananthapuram, Kerala</summary>
-  <br/>
-  <blockquote>
-    <code>Figma</code> <code>React</code> <code>Accessibility</code> <code>Usability Testing</code>
-  </blockquote>
-
-  - Designed and developed accessible, responsive interfaces for digital products
-  - Conducted user research and usability testing to iterate on prototypes
-  - Delivered production-ready UI components aligned with brand identity
-</details>
-
-<details>
-  <summary><b>⚙️ TinkerHub SBCE — Tech Team Member</b> · Sept 2025 – Jan 2026 · Patoor, Kerala</summary>
-  <br/>
-  <blockquote>
-    <code>Collaborative Coding</code> <code>Open Source</code> <code>Hackathons</code>
-  </blockquote>
-
-  - Contributed to technical projects and collaborative coding initiatives within the TinkerHub community
-  - Participated in build sprints and peer code reviews
-</details>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| | Achievement | Details |
-|--|-------------|---------|
-| 🎓 | **NPTEL Certification** | The Joy of Computing with Python — National Programme on Technology Enhanced Learning |
-| 🎨 | **UI/UX IG Lead** | Mentored **50+ students** at Mulearn SBC in design thinking & prototyping |
-| 📡 | **IEEE Member** | Active IEEE member since Mar 2025 — Program Coord → Membership Dev |
-| 🌐 | **Mulearn Foundation Core Team** | UI/UX Core Team Member at Mulearn Foundation, Thiruvananthapuram (Dec 2025 – Present) |
-| 📈 | **Event Impact** | Improved IEEE event attendance by **30%** through optimized coordination |
-| 🚀 | **Live Portfolio** | Personal portfolio live at [ebin-reji.vercel.app](https://ebin-reji.vercel.app) with 3D physics-based components |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.Tech in Computer Science & Engineering | Sree Buddha College of Engineering, APJ Abdul Kalam Technological University | 2023 – 2027 | In Progress |
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```
-🤖 Advanced ML Integration  →  Model fine-tuning, ONNX, edge deployment
-☁️  Cloud & DevOps          →  Firebase, Vercel, CI/CD pipelines
-🏗️  System Design           →  Scalable architecture, real-time systems
-🔐 Security Engineering     →  End-to-end encryption, secure auth patterns
-🎭 Creative Dev             →  Three.js, WebGL, scroll-based animations
-```
-
----
-
-<div align="center">
-
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01101110 01100111`</sub>
-
-</div>
+<br/>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
