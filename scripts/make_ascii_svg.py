@@ -48,13 +48,12 @@ ART_H = ROWS * CELL_H
 CANVAS_W = ART_W + PAD * 2
 CANVAS_H = TITLEBAR_H + ART_H + STATUS_H + PAD
 
-BG = "#0a0e14"
-BG2 = "#0e131d"
-FRAME = "#2a313d"
-TITLE_TEXT = "#8b949e"
-INK = "#f0f6fc"      # crisp silver-white ascii characters
-GOLD = "#f5c542"     # glowing gold accent
-CURSOR = "#f5c542"
+BG = "#0d1117"
+BG2 = "#111722"
+FRAME = "#30363d"
+TITLE_TEXT = "#7d8590"
+INK = "#c9d1d9"      # the single ascii color (matches Andrew6rant)
+CURSOR = "#c9d1d9"
 
 # ---- reveal timing (one-shot; a cursor rasters top -> bottom) -------------
 ROW_DUR = 5.8 / ROWS  # whole portrait prints in ~6s at any resolution
@@ -142,9 +141,9 @@ status_line_y = TITLEBAR_H + ART_H + PAD * 0.35
 status_y = status_line_y + 19
 parts.append(f'<line x1="0" y1="{status_line_y:.1f}" x2="{CANVAS_W}" y2="{status_line_y:.1f}" stroke="{FRAME}"/>')
 parts.append(f'<text x="{PAD}" y="{status_y:.1f}" fill="{TITLE_TEXT}" font-size="13">'
-             f'ebin@github:~$ whoami <tspan fill="{GOLD}">Ebin Reji</tspan></text>')
+             f'ebin@github:~$ whoami <tspan fill="{INK}">Ebin Reji</tspan></text>')
 status_chars = len("ebin@github:~$ whoami Ebin Reji ")   # cursor sits after the name
-parts.append(f'<rect x="{PAD + status_chars * 13 * 0.6:.1f}" y="{status_y-12:.1f}" width="8" height="14" fill="{GOLD}">'
+parts.append(f'<rect x="{PAD + status_chars * 13 * 0.6:.1f}" y="{status_y-12:.1f}" width="8" height="14" fill="{INK}">'
              f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" '
              f'dur="1s" repeatCount="indefinite"/></rect>')
 
