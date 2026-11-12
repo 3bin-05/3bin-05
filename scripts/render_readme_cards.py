@@ -172,8 +172,8 @@ def hero():
   <rect class="live" x="48" y="49" width="8" height="8" rx="2" fill="{TECH}"/>
   <text x="66" y="57" font-family="{MONO}" font-size="12" letter-spacing="1" fill="{MUTED}">AI-DRIVEN FULL STACK ENGINEER</text>
 </g>
-<text class="r" {d(0.15)} x="44" y="165" font-family="{SERIF}" font-size="116" letter-spacing="-2.5" fill="{INK}">Ebin</text>
-<text class="r" {d(0.3)} x="44" y="265" font-family="{SERIF}" font-style="italic" font-size="116" letter-spacing="-2.5" fill="url(#shine)">Reji</text>
+<text class="r" {d(0.15)} x="44" y="173" font-family="{SERIF}" font-size="116" letter-spacing="-2.5" fill="{INK}">Ebin</text>
+<text class="r" {d(0.3)} x="44" y="273" font-family="{SERIF}" font-style="italic" font-size="116" letter-spacing="-2.5" fill="url(#shine)">Reji</text>
 <g class="r" {d(0.55)}>
   {text_lines(48, 338, ["Building AI-powered web applications,", "offline LLMs & full-stack experiences."], 27, f'font-family="{SANS}" font-size="18" fill="{INK_SOFT}"')}
 </g>
