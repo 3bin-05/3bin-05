@@ -304,25 +304,25 @@ def activity(data):
 # ---- 4 · repo cards -----------------------------------------------------------
 REPO_W, REPO_H = 880 / 3 - 8, 176
 REPOS = [
-    ("TalentPilot", "Offline AI resume screening desktop app using local Gemma LLM with zero cloud exposure.", "TypeScript", TECH),
-    ("Dark-netra-frontend", "Full-stack cybersecurity ML platform detecting phishing URLs with trained models.", "TypeScript", STUDIO),
-    ("SolarWise", "Clean energy feasibility platform promoting solar adoption with interactive analytics.", "TypeScript", LEARN),
+    ("mulearn-sbc", "µLearn SBC", "Campus chapter web app with strict Figma fidelity & smooth Framer Motion UI.", "React · Vite", TECH, "mulearnsbc"),
+    ("DarkNetra", "DarkNetra", "Hybrid phishing URL detection system with trained ML models & Telegram bot.", "Python · ML", STUDIO, "Dark-netra-frontend"),
+    ("mileage-undo", "Mileage Undo", "AI-driven fuel efficiency utility with client state handling & LLM integration.", "React · AI", LEARN, "mileage_undo"),
 ]
 
 
-def repo_card(i, name, desc, lang, color, stars):
+def repo_card(i, filename, title, desc, lang, color, stars):
     delay = 4.6 + i * 0.12
     meta = f"{lang}  ·  ★ {stars}" if stars else f"{lang}  ·  live"
     body = f"""
 <rect width="{REPO_W}" height="{REPO_H}" rx="14" fill="{PAPER}"/>
 <g class="r" {d(delay)}>
   <rect x="24" y="30" width="8" height="8" rx="2" fill="{color}"/>
-  <text x="40" y="39" font-family="{SANS}" font-weight="600" font-size="18" fill="{INK}">{escape(name)}</text>
+  <text x="40" y="39" font-family="{SANS}" font-weight="600" font-size="18" fill="{INK}">{escape(title)}</text>
   {text_lines(24, 72, wrap(desc, 34), 21, f'font-family="{SANS}" font-size="14" fill="{INK_SOFT}"')}
   <text x="24" y="{REPO_H - 24}" font-family="{MONO}" font-size="12" fill="{MUTED}">{escape(meta)}</text>
 </g>
 """
-    write(f"repo-{name}.svg", svg(REPO_W, REPO_H, body, ["sans", "sans-b", "mono"], f"{name}: {desc}",
+    write(f"repo-{filename}.svg", svg(REPO_W, REPO_H, body, ["sans", "sans-b", "mono"], f"{title}: {desc}",
                                   left=4 * i, right=8 - 4 * i))
 
 
@@ -394,10 +394,10 @@ def repo_stars():
     try:
         import requests
 
-        for name, *_ in REPOS:
-            r = requests.get(f"https://api.github.com/repos/3bin-05/{name}", headers={"User-Agent": "profile-readme-bot/1.0"}, timeout=10)
+        for filename, title, desc, lang, color, gh_name in REPOS:
+            r = requests.get(f"https://api.github.com/repos/3bin-05/{gh_name}", headers={"User-Agent": "profile-readme-bot/1.0"}, timeout=10)
             if r.ok:
-                stars[name] = r.json().get("stargazers_count", 0)
+                stars[filename] = r.json().get("stargazers_count", 0)
     except Exception as e:  # offline: keep going without stars
         print(f"stars unavailable: {e}")
     return stars
@@ -407,15 +407,15 @@ if __name__ == "__main__":
     data = json.load(open(DATA, encoding="utf-8"))
     hero()
     tile("build", "BUILD", TECH, "#ffffff", "10+", "projects",
-         "TalentPilot AI, DarkNetra ML, SolarWise, and high-performance web apps.", 3.1, 0)
+         "µLearn SBC, DarkNetra, Mileage Undo, and AI-driven full-stack web apps.", 3.1, 0)
     tile("awards", "AWARDS", STUDIO, "#ffffff", "3", "podiums",
          "2nd at Astra '26, 2nd at Prism '26, and 3rd at BrainHack '26.", 3.35, 1)
     tile("community", "COMMUNITY", LEARN, INK, "4", "roles",
          "µLearn SBC Technical Associate, IEEE Program Coordinator & Purple Movement.", 3.6, 2)
     activity(data)
     stars = repo_stars()
-    for i, (name, desc, lang, color) in enumerate(REPOS):
-        repo_card(i, name, desc, lang, color, stars.get(name, 0))
+    for i, (filename, title, desc, lang, color, gh_name) in enumerate(REPOS):
+        repo_card(i, filename, title, desc, lang, color, stars.get(filename, 0))
     section_title("What I'm", "coding", "dark")
     section_title("What I'm", "coding", "light")
     heatmap(data)
